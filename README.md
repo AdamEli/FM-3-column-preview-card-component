@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@AdamEli](https://www.frontendmentor.io/profile/adameli)
+-   Frontend Mentor - [@AdamElitzur](https://www.frontendmentor.io/profile/adamelitzur)
 - Twitter - [@adamcandoit](https://twitter.com/adamcandoit)
